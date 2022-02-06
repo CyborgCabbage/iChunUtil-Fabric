@@ -10,11 +10,11 @@
     "CyborgCabbage"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/CyborgCabbage/iChunUtil-Fabric",
+    "sources": "https://github.com/CyborgCabbage/iChunUtil-Fabric"
   },
 
-  "license": "CC0-1.0",
+  "license": "GNU Lesser General Public License v3.0",
   "icon": "assets/ichunutil/icon.png",
 
   "environment": "*",
